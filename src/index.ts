@@ -88,4 +88,4 @@ if(message.content == "!verdado"){
     
 
 })
-client.login("MTExNjkwNzI5MTQyNjQ0MzI4NA.GnMBKg.vJTg76ocCWamoEdByNink1gQpmNo8pFESRuXHA")
+client.login("token")
